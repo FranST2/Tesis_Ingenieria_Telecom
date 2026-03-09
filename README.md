@@ -1,8 +1,8 @@
 # Transmisor Especializado EWBS para Televisión Digital Terrestre (ISDB-Tb)
 
-**Universidad de las Fuerzas Armadas ESPE**
-**Departamento de Eléctrica, Electrónica y Telecomunicaciones**
-**Autores:** Francisco Alejandro Simbaña Tasiguano y Bryan Humberto Narváez Romero
+**Universidad de las Fuerzas Armadas ESPE**<br>
+**Departamento de Eléctrica, Electrónica y Telecomunicaciones**<br>
+**Autores:** Francisco Alejandro Simbaña Tasiguano y Bryan Humberto Narváez Romero<br>
 **Tutor:** Msc. Gonzalo Fernando Olmedo Cifuentes, PhD.
 
 ---
