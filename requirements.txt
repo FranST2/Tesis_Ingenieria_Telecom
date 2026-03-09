@@ -1,0 +1,6 @@
+# Dependencias principales para el Transmisor EWBS
+# Implementación del codificador Reed-Solomon RS(204,196)
+reedsolo>=1.5.4
+
+# Nota: La interfaz gráfica utiliza Tkinter, el cual forma parte de la 
+# biblioteca estándar de Python y no requiere instalación vía pip en Windows/macOS.
